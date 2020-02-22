@@ -9,4 +9,6 @@ excerpt: Wow, look what I wrote
   * What you said
     * What you will have said???
 
-_Again, with feeling. Plus macro_
+_Again, with feeling. Plus macro_[1](https://twitter.com/disneydeluxejp/status/1209855085166989312/photo/1 "1")
+
+[EMpEyNjUEAEvgnX?format=jpg&name=small](https://pbs.twimg.com/media/EMpEyNjUEAEvgnX?format=jpg&name=small "EMpEyNjUEAEvgnX?format=jpg&name=small")
